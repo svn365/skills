@@ -12,4 +12,4 @@
 ## Аналитика в Excel
 Используя данные таблицы Excel, сводные таблицы, сводные диаграммы, срезы данных и пр. создан пример дашборда.
 
-Здесь вы можете посмотреть файл [Дашборда](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsvn365%2Fskills%2Fmain%2FDashboard.xlsx&wdOrigin=BROWSELINK).
+Здесь вы можете посмотреть файл [Дашборда](https://github.com/svn365/skills/blob/main/Dashboard.xlsx).
