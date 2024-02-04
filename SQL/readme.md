@@ -1,4 +1,4 @@
-# skills-SQL
+# skills in SQL
 
 ## Подключение к Базам Данных и SQL
 
@@ -10,6 +10,7 @@
 2. Написаны запросы для извлечения аналитических данных из ранее созданных таблиц базы данных. скрипты запросов аналитических данных:
 
 2.1 Overview (обзор ключевых метрик)
+[overview1](https://github.com/svn365/skills/blob/main/SQL/Script%20overview.sql)
   - Total Sales 
   - Total Profit
   - Profit Ratio
@@ -20,9 +21,11 @@
   - Monthly Sales by Product Category (табличка и график)
 
 2.2 Product Dashboard (Продуктовые метрики)
+[overview2](https://github.com/svn365/skills/blob/main/SQL/Script%20overview2.sql)
   - Sales by Product Category over time (Продажи по категориям)
 
 2.3 Customer Analysis
+[overview3](https://github.com/svn365/skills/blob/main/SQL/Script%20overview3.sql)
   - Sales and Profit by Customer
   - Customer Ranking
   - Sales per region
